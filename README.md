@@ -1,2 +1,3 @@
 # gwa-test-lfs
-Test LFS support
+Test LFS support.
+Verify can update normally.
